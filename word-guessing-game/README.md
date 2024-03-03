@@ -1,0 +1,2 @@
+word-guessing-game
+This folder contains an implementation of a word guessing game. The game is played by guessing letters to uncover a randomly chosen word from a word pool. The WordGuessingGame.java file implements the game logic, allowing users to guess letters and displaying the progress of the word. The game is played through standard input and output.

@@ -1,0 +1,2 @@
+association-table
+This folder contains the implementation of a generic class called AssociationTable, which implements a sorted associative table for storing pairs of keys and values. The class provides methods for adding, getting, checking for existence, removing, and iterating through keys in the table.

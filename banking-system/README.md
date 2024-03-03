@@ -1,0 +1,2 @@
+banking-system
+This folder contains classes representing a hierarchy of bank accounts. The classes include BankAccount, CheckingAccount, ServiceChargeChecking, NoServiceChargeChecking, InterestChecking, SavingsAccount, and HighInterestSavings. These classes implement different types of bank accounts with features such as deposits, withdrawals, and monthly management. The folder also includes an IllegalBalanceException class for handling exceptions related to insufficient balances.

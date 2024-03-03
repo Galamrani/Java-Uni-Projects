@@ -1,0 +1,9 @@
+
+
+Add -> enter a name to the name bar, enter a number to the number bar, and press the add button
+
+Delete-> press on a name from the list, and press delete
+
+Update -> press on a name from the list, enter a new number in the number bar, and press the update button
+
+Search -> enter a name to the name bar, and press the search button 

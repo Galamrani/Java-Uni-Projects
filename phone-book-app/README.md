@@ -1,0 +1,2 @@
+phone-book-app
+This folder contains a JavaFX application for managing a phone book. The application allows users to add, delete, update, and search for contacts by name. The contact information is stored using a data structure from the Java Collections Framework, such as HashMap or TreeMap.

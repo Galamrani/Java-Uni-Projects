@@ -1,0 +1,2 @@
+shapes-drawing-app
+This folder contains a JavaFX application for drawing shapes with random properties. The application displays a drawing consisting of squares, ovals, and lines, with randomly determined colors, sizes, and positions. The ShapesDrawingApp.java file implements the drawing functionality using JavaFX's Canvas element. Users can generate new collections of shapes by clicking a button in the upper-left corner of the window.
