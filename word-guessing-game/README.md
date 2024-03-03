@@ -9,8 +9,10 @@ The player has to guess the word letter by letter until they either correctly gu
 
 2. **GuessingGame.java**: Contains the `GuessingGame` class, which orchestrates the game by creating instances of `PickWord`, `GameInfo`, `GameLogic`, and `GraphicInterface` classes.
 
-3. **GraphicInterface.java**: Implements the game's graphical interface, including methods for displaying game results, handling player input, and showing game screens.
+3. **GraphicInterface.java**: Contains the `GraphicInterface` class, and implements the game's graphical interface, including methods for displaying game results, handling player input, and showing game screens.
 
-4. **GameLogic.java**: Defines the game's logic, including methods for running the game, processing player guesses, and determining if the player has won.
+4. **GameLogic.java**: Contains the `GameLogic` class, defines the game's logic, including methods for running the game, processing player guesses, and determining if the player has won.
+
+5. **GameInfo.java**: Contains the `GameInfo` class, which stores information about the game, such as the number of guesses made.
 
 
