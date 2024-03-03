@@ -15,4 +15,4 @@ These projects cover a wide range of topics including data structures, algorithm
 
 5. **Phone Book App**: JavaFX application for managing a phone book. Users can add, delete, update, and search for contacts by name.
 
-6. **Association Table**: Implementation of a generic class called `AssociationTable` that implements a sorted associative table for storing pairs of keys and values.
+6. **Association Table**: Implementation of a generic class that implements a sorted associative table for storing pairs of keys and values.
