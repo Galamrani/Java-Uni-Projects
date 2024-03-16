@@ -1,2 +1,18 @@
-word-guessing-game
-This folder contains an implementation of a word guessing game. The game is played by guessing letters to uncover a randomly chosen word from a word pool. The WordGuessingGame.java file implements the game logic, allowing users to guess letters and displaying the progress of the word. The game is played through standard input and output.
+## Description
+This folder contains a simple guessing game implemented in Java. The game prompts the player to guess a randomly selected word from a predefined list. 
+The player has to guess the word letter by letter until they either correctly guess the entire word or choose to stop playing.
+
+
+## Files
+
+1. **PickWord.java**: Contains the `PickWord` class, which selects a random word from a predefined bank of words.
+
+2. **GuessingGame.java**: Contains the `GuessingGame` class, which orchestrates the game by creating instances of `PickWord`, `GameInfo`, `GameLogic`, and `GraphicInterface` classes.
+
+3. **GraphicInterface.java**: Contains the `GraphicInterface` class, and implements the game's graphical interface, including methods for displaying game results, handling player input, and showing game screens.
+
+4. **GameLogic.java**: Contains the `GameLogic` class, defines the game's logic, including methods for running the game, processing player guesses, and determining if the player has won.
+
+5. **GameInfo.java**: Contains the `GameInfo` class, which stores information about the game, such as the number of guesses made.
+
+
