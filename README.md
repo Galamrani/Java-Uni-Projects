@@ -1,7 +1,7 @@
 # University Java Projects
 
 Welcome to the University Java Projects repository! This repository contains a collection of Java projects completed during advanced java programming university coursework. 
-These projects cover a wide range of topics including data structures, algorithms, object-oriented programming, and JavaFX applications.
+These projects cover a wide range of topics including object-oriented programming, generic programming, multi-threaded programming, and user interface development.
 
 ## Projects
 
